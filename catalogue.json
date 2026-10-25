@@ -1,0 +1,26 @@
+{
+    "format":  1,
+    "applications":  [
+                         {
+                             "dossier":  "Convertisseur",
+                             "role":  "convertir des fichiers d\u0027un format à un autre : images (dont HEIC), PDF, Word, notes, pages HTML, CSV, Excel, JSON",
+                             "version":  "1.4",
+                             "icone":  "arrow-right-left",
+                             "couleur":  "#f5a25d",
+                             "telephone":  "partiel : toutes les conversions sauf celles vers PDF par impression (Word, note, HTML, tableaux), qui demandent le moteur d\u0027impression de l\u0027ordinateur. Pas de glisser-déposer. Les gros PDF sont lents.",
+                             "fichier":  "apps/Convertisseur-1.4.zip",
+                             "sha256":  "73eeab5c90c0e85136c145215b360dac23eab5c8745dcba443f811c36a79344f",
+                             "taille":  1638258,
+                             "dossiersVides":  [
+                                                   "Inbox",
+                                                   "Convertis",
+                                                   "Originaux",
+                                                   "Fonds"
+                                               ],
+                             "proprietes":  {
+
+                                            },
+                             "ligneManuel":  "| `Convertisseur/` | convertir des fichiers d\u0027un format à un autre (images, PDF, Word, notes, HTML, CSV, Excel, JSON) avec détection automatique du type, entièrement dans Obsidian | 1.4 | `Convertisseur/CLAUDE.md` |"
+                         }
+                     ]
+}
